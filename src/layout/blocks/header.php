@@ -1,5 +1,5 @@
 <header>
     <div class="container">
-        <h1>Mon site</h1>
+        <div class="h1">Mon site</div>
     </div>
 </header>

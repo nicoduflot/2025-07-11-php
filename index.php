@@ -1,3 +1,6 @@
+<?php
+include './src/lib/functions.php';
+?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
